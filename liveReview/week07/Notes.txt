@@ -29,3 +29,10 @@ FrequencyOfCharacters
 Task01
 Task02
 
+Example Order:
+WhileHungry
+RandomPassword
+FrequencyOfCharacters
+Task01
+Task02
+

@@ -1,11 +1,12 @@
 package week07;
 
+
 import java.util.Random;
 
 public class RandomPassword {
     public static void main(String[] args) {
         String source ="";
-      //  String source ="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789_!@#$%^&*";
+        //  String source ="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789_!@#$%^&*";
         for(int i=33; i<=122;i++){
             source+=(char)i;
         }
