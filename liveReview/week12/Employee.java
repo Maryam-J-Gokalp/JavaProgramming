@@ -1,5 +1,6 @@
 package week12;
 
+
 public class Employee {
 
     public String name, jobTitle;

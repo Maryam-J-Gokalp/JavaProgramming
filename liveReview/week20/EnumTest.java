@@ -1,5 +1,6 @@
 package week20;
 
+
 public class EnumTest {
 
     Day day;

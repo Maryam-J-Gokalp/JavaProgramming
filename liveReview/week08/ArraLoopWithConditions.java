@@ -1,5 +1,6 @@
 package week08;
 
+
 public class ArraLoopWithConditions {
     public static void main(String[] args) {
 

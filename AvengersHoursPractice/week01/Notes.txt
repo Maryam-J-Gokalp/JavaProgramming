@@ -2,6 +2,7 @@
 Topics:
     1. Type Casting
 
+
         a. Implicit Casting
                 Done by compiler/Machine/computer
                 smaller to bigger data type

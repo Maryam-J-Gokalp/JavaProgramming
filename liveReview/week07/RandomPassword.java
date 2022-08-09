@@ -1,6 +1,5 @@
 package week07;
 
-
 import java.util.Random;
 
 public class RandomPassword {

@@ -1,5 +1,4 @@
 package week02;
-
 public class EmployeeInfo {
     public static void main(String[] args) {
         /*

@@ -1,5 +1,6 @@
 package week16;
 
+
 public class Swimming extends Exercise{
     public Swimming(double weight) {
         super(weight);

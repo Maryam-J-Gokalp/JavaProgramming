@@ -6,6 +6,7 @@
      statement
      }
 
+
      initialization : starting point
 
      Condition : ending point, created based on initialization

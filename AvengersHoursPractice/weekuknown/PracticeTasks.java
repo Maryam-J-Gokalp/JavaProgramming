@@ -3,6 +3,7 @@ package weekuknown;
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class PracticeTasks {
     /*
     Task 4 :   Write a method that can check if a number is Armstrong number

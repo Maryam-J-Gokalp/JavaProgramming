@@ -9,6 +9,7 @@ public class TJMaxx {
      * and OnSaleItem objects that represent items that are sold in TJMaxx
      */
 
+
     private ArrayList<Item> items;
     private ArrayList<OnSaleItem> onSaleItems;
 

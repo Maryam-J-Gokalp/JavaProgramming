@@ -1,5 +1,6 @@
 package week02;
 
+
 public class ArithmeticOperators {
     public static void main(String[] args) {
         /*

@@ -1,5 +1,6 @@
 package week12;
 
+
 public class Value {
     /*
     Write a class definition of a class named 'Value' with the following:

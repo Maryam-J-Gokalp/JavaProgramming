@@ -1,5 +1,6 @@
 package week20;
 
+
 public enum Day {
 
     SUNDAY,

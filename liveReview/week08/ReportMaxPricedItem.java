@@ -1,5 +1,6 @@
 package week08;
 
+
 public class ReportMaxPricedItem {
     public static void main(String[] args) {
         String[] items = {"Shoes", "Jacket", "Gloves", "Airpods", "iPad", "iphone 12 case"};

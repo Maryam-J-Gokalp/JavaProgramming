@@ -3,6 +3,7 @@ package week03;
 public class UnaryReview {
     public static void main(String[] args) {
 
+
         int a = 20;
         a++;
        // System.out.println("a++ = " + a++); // 20  use the variable then increase by 1

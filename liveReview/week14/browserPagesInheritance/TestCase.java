@@ -1,5 +1,6 @@
 package week14.browserPagesInheritance;
 
+
 public class TestCase {
     public static void main(String[] args) {
 

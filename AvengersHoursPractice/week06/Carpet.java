@@ -1,5 +1,6 @@
 package week06;
 
+
 public class Carpet {
 
     private double cost;

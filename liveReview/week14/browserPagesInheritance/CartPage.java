@@ -1,5 +1,6 @@
 package week14.browserPagesInheritance;
 
+
 public class CartPage extends AmazonHomePage{
 
     public String buyerInfo;

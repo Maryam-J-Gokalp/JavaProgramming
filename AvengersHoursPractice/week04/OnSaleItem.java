@@ -7,6 +7,7 @@ public class OnSaleItem extends Item{
      * private instance variable, used for discount percentage
      */
 
+
     private double discountPercentage;
 
     /**

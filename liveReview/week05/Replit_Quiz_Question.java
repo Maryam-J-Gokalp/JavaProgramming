@@ -1,5 +1,6 @@
 package week05;
 
+
 import java.util.Scanner;
 
 /*In the given program you have a quiz question and a scanner to get the user input which will be stored on string **a**.

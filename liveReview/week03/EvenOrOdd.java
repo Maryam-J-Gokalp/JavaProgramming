@@ -3,6 +3,7 @@ package week03;
 public class EvenOrOdd {
     public static void main(String[] args) {
 
+
         // Task: find if a given integer is even number or odd number
         // Hint: use % operator , and control flow statements
 

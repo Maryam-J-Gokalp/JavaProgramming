@@ -4,7 +4,6 @@ Today's Topics:
     - ArrayList
     - String Manipulation
     - Loops & Switch statements
-
  1. Create a custom class called GroceryList
         Instance Variable
         - we have only one attribute: an Arraylist named 'groceryList'

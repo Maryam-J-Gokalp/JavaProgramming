@@ -1,5 +1,6 @@
 package week16;
 
+
 public class Running extends Exercise{
 
     public Running(double weight) {

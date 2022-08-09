@@ -1,5 +1,6 @@
 package week07;
 
+
 public class FrequencyOfCharacters {
 /*
 What is pseudocode?  In computer science, pseudocode is a plain language description of the steps in an algorithm or another system. Pseudocode often uses structural conventions of a normal programming language, but is intended for human reading rather than machine reading.

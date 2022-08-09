@@ -1,5 +1,6 @@
 package week09;
 
+
 public class CustomMethodsPractice01 {
     public static void main(String[] args) {
         int personOneAge = 10;

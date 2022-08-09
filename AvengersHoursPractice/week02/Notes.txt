@@ -6,6 +6,7 @@ Today's Topics:
 2.Custom Methods
         Access-Modifier Specifier ReturnType MethodName(Parameter){
             Statements
+
         }
          Access-Modifier:
          public: always reachable

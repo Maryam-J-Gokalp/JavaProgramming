@@ -1,5 +1,6 @@
 package week05;
 
+
 public class Locators {
     String locator;
     public Locators(String locator){

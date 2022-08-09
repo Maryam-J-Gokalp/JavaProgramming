@@ -1,5 +1,4 @@
 package week04;
-
 public class Item {
     /*
     In this assignment you will practice:

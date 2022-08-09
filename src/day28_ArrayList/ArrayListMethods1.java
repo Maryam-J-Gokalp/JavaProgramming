@@ -1,12 +1,13 @@
 package day28_ArrayList;
 
+
 import java.util.ArrayList;
 
 public class ArrayListMethods1 {
 
     public static void main(String[] args) {
 
-        ArrayList<Integer>  numbers = new ArrayList<>();
+        ArrayList<Integer> numbers = new ArrayList<>();
         numbers.add(10); //0
         numbers.add(20); //1
         numbers.add(30); //3

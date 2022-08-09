@@ -1,5 +1,6 @@
 Conditional Statements in JAVA (Control FLOW statements)
 If Condition:
+
     - single if statements (door: opens only if condition is true)
     - if ...else...
     - if ...else if ... else if...else

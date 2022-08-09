@@ -5,6 +5,7 @@ public class CustomMethodsExample {
     public static void main(String[] args) {
         int sum;
 
+
         sum = add(5,6);
 
         double sumTwo = add(5.5,6.5);

@@ -1,5 +1,6 @@
 package week05;
 
+
 public class UsingThrowKeyword {
     public static void main(String[] args) {
 

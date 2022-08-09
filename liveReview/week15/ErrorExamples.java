@@ -1,5 +1,6 @@
 package week15;
 
+
 public class ErrorExamples {
     /*
     Normally we don't try to catch ERROR like the one below

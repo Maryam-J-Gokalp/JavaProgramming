@@ -1,5 +1,6 @@
 package week13.inheritance;
 
+
 public class Ebook extends Book{
     int size;
     int pages;

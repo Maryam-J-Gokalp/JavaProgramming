@@ -11,6 +11,7 @@ Automation Engineer (30 Weeks Long)
     - CI (continous integration) Tools : Jenkins
     - Project Management, Team Management, Bug Management : JIRA
 
+
 ArrayList:
 - Dynamic Arrays: at the background it using Arrays
 - ordered collection of data of the same type

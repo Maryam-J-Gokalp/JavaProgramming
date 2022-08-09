@@ -6,6 +6,7 @@ public class StringManipulatorTest {
         StringManipulator objectOne = new StringManipulator("java");
         System.out.println(objectOne.str);
 
+
         StringManipulator objectTwo = new StringManipulator("selenium");
         System.out.println(objectTwo.str);
 

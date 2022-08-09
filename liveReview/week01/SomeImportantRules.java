@@ -1,6 +1,6 @@
 package week01;
-
 public class SomeImportantRules {
+
 
     /*
     1. Your class name and file name has to be same

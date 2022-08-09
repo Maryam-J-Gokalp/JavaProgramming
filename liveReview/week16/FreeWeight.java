@@ -1,5 +1,6 @@
 package week16;
 
+
 public class FreeWeight extends Lifting{
     public FreeWeight(double weight) {
         super(weight);

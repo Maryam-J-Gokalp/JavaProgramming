@@ -5,6 +5,7 @@ public class Chrome extends WebDriver {
         super(browserType);
     }
 
+
     /*
     Method Overriding Rules:
     1. Same name same parameter

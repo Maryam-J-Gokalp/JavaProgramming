@@ -1,5 +1,6 @@
 package week14.browserPagesInheritance;
 
+
 public class AmazonHomePage extends Browser{ // you CANNOT inherit from final class
 
     public String product;

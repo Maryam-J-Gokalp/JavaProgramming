@@ -4,6 +4,7 @@ What is collection framework?
 Why do we need collection framework?
         to organize our data
 
+
 inteview perspective:
     * What is the difference between ....(List) and ...(Set) ?
     * How did you use .....(LinkedList) in your framework?

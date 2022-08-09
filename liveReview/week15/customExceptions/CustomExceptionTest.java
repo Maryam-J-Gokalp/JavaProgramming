@@ -1,5 +1,6 @@
 package week15.customExceptions;
 
+
 public class CustomExceptionTest {
     public static void main(String[] args) {
 

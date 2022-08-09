@@ -1,4 +1,5 @@
 Today's Topics:
+
     - Review Scanner class, how to use it
     - Strings
         * methods that come from class

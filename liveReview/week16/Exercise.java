@@ -1,5 +1,6 @@
 package week16;
 
+
 public abstract class Exercise {
 
     double weight;

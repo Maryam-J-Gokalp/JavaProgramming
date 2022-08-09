@@ -1,5 +1,6 @@
 package week10;
 
+
 public class R03_CalculateRetirement {
 
     // This example was implemented to show that we can call a method from other methods

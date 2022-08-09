@@ -1,5 +1,4 @@
 package week06;
-
 import java.util.Scanner;
 
 public class UpperBound {

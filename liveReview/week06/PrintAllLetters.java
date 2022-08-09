@@ -4,6 +4,7 @@ public class PrintAllLetters {
 
 
 
+
     public static void main(String[] args) {
 
         // Print all the letters from A to Z

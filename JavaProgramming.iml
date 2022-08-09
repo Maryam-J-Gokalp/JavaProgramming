@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/replitTaksSolutions" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/taskSolutions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaReviewWithMuhtar" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

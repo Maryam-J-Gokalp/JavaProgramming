@@ -1,5 +1,6 @@
 package week13;
 
+
 public class CameraPhone extends Phone {
     int imageSize; // this one is in MegaBytes
     int memorySize;// this is in gigabytes

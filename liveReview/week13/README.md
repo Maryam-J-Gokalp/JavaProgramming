@@ -26,6 +26,7 @@ Visibility/Access modifier: private
 type: int
 Visibility/Access modifier: private
 
+
 Methods:
 - insertData - lets you set the values to above encapsulated instance variables.
 - getData - getter method for private data

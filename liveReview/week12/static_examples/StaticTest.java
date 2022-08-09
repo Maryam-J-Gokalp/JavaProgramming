@@ -1,5 +1,6 @@
 package week12.static_examples;
 
+
 public class StaticTest {
     public String instanceValue = "Selenium";
     public static String word = "Java";

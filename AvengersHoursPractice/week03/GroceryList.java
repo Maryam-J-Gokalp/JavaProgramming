@@ -1,5 +1,4 @@
 package week03;
-
 import java.util.ArrayList;
 
 public class GroceryList { // blueprint for all my shopping Lists

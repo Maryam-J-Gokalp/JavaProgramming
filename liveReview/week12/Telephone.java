@@ -1,5 +1,6 @@
 package week12;
 
+
 public class Telephone {
     /*
     Write the definition of a class Telephone.

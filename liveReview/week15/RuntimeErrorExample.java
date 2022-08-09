@@ -1,5 +1,6 @@
 package week15;
 
+
 import java.util.Scanner;
 
 public class RuntimeErrorExample {

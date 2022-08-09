@@ -1,5 +1,6 @@
 package week06;
 
+
 public class BasicLoopExamples {
     public static void main(String[] args) {
         /**

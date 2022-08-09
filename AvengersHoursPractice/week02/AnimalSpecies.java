@@ -1,6 +1,7 @@
 package week02;
 
 public class AnimalSpecies {
+
     /*
           Create a class AnimalSpecies
 			- Create these variables in the class:

@@ -1,5 +1,6 @@
 package week07;
 
+
 public class WhileHungary {
     public static void main(String[] args) {
   //      boolean isHungary = true;

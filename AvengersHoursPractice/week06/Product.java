@@ -1,5 +1,6 @@
 package week06;
 
+
 public class Product implements Comparable<Product> {
     public String name;
     public double price;

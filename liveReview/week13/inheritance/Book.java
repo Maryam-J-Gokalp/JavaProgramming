@@ -1,5 +1,6 @@
 package week13.inheritance;
 
+
 public class Book {
     String title;  // default access modifier
     String type;

@@ -1,5 +1,6 @@
 package week06;
 
+
 public class Calculator {
     public Floor floor; // floor is an instance variable for Calculator class and also serves as the object of Floor class
     public Carpet carpet;

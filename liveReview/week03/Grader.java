@@ -2,6 +2,7 @@ package week03;
 
 public class Grader {
 
+
     public static void main(String[] args) {
         // for a given score assign Letter scores: 100-90 (inclusive): A, 89 -  80 : B , 79 - 70 : C, 69 - 60 : D, Below is F
         int score = 90;

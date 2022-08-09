@@ -4,6 +4,7 @@ public class StringManipulator {
 
     public String str; // attribute
 
+
     public int x;
 
     public StringManipulator(String str){ // one parameter constructor

@@ -1,6 +1,7 @@
 package week01;
 
 public class CastingPractices {
+
     public static void main(String[] args) {
 
         // byte to short

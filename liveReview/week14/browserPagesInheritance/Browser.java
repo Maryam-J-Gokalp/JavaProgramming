@@ -1,5 +1,6 @@
 package week14.browserPagesInheritance;
 
+
 public class Browser {
     private static String browserType; // chrome, safari, edge, firefox...
 

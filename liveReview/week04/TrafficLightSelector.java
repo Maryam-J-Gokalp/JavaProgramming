@@ -1,5 +1,6 @@
 package week04;
 
+
 public class TrafficLightSelector {
     public static void main(String[] args) {
         char color = 'r';
